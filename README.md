@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EE80&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
+![Static Badge](https://img.shields.io/badge/any_test?logo=bitcoin&label=test&color=grey)
+
 - 👋 Hi, I’m
               ChoRong(초롱) Park(박) 
 - 👀 I’m interested in
