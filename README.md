@@ -26,4 +26,5 @@ You can click the Preview link to take a look at your changes.
 header : https://github.com/kyechan99/capsule-render?tab=readme-ov-file
 title : https://readme-typing-svg.demolab.com/demo/
 badge : https://shields.io/badges/static-badge
+GitHub Stats Card : https://github.com/anuraghazra/github-readme-stats
 --->
