@@ -4,6 +4,8 @@
 
 ![Static Badge](https://img.shields.io/badge/any_test?logo=bitcoin&label=test&color=grey)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m
               ChoRong(초롱) Park(박) 
 - 👀 I’m interested in
@@ -22,4 +24,6 @@ MathDev-park/MathDev-park is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 
 header : https://github.com/kyechan99/capsule-render?tab=readme-ov-file
+title : https://readme-typing-svg.demolab.com/demo/
+badge : https://shields.io/badges/static-badge
 --->
