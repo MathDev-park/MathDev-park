@@ -4,7 +4,7 @@
 
 ![Static Badge](https://img.shields.io/badge/any_test?logo=bitcoin&label=test&color=grey)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MathDev-park/github-readme-stats)
+[![MathDev-park's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathDev-park)](https://github.com/MathDev-park/github-readme-stats)
 
 - 👋 Hi, I’m
               ChoRong(초롱) Park(박) 
